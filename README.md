@@ -1,1 +1,1 @@
-# RemHub
+print("Hello World!")
